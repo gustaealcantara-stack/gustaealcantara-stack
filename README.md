@@ -1,11 +1,11 @@
 
 # 👨‍💻 Gustavo Esteves
 
-**`Estudante DevOps`**
+**`Estudante de Ciência da Computação`**
 
-Estudante de TI | Desenvolvimento de Sistemas | Banco de Dados | Redes e Infraestrutura | Foco em DevOps | Engenheiro de Prompt.
+Estudante de TI | Estudante de CyberSegurança | Desenvolvimento de Sistemas | Banco de Dados | Redes e Infraestrutura | Foco em Desenvolvimento de Softwares | Engenheiro de Prompt 
 
-Apaixonado por tecnologia, praticidade e inclusão.
+Estudante de TI com perfil analítico e multidisciplinar, facilidade em resolução de problemas, desenvolvimento de sistemas, banco de dados, redes e infraestrutura, além de criatividade, pensamento lógico e interesse em automação e Dev.
 
 <p align="left">
     <a href="https://github.com/gustaealcantara-stack?tab=repositories&sort=stargazers">
