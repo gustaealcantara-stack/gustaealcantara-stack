@@ -39,19 +39,3 @@ Estudante de TI com perfil analítico e multidisciplinar, facilidade em resoluç
 </div>
 
 <br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-    <img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=gustaealcantara-stack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-
- 
-</p>
-
