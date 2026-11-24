@@ -3,7 +3,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Estudante de TI | Estudante de CyberSegurança | Desenvolvimento de Sistemas | Banco de Dados | Redes e Infraestrutura | Foco em Desenvolvimento de Softwares | Engenheiro de Prompt 
+## Estudante de TI | Estudante de CyberSegurança | Desenvolvimento de Sistemas | Banco de Dados | Redes e Infraestrutura | Foco em Desenvolvimento de Softwares | Engenheiro de Prompt 
 
 Estudante de TI com perfil analítico e multidisciplinar, facilidade em resolução de problemas, desenvolvimento de sistemas, banco de dados, redes e infraestrutura, além de criatividade, pensamento lógico e interesse em automação e Dev.
 
